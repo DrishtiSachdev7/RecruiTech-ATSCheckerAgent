@@ -1,0 +1,14 @@
+# LLM
+openai>=1.0.0
+
+# Kafka
+kafka-python>=2.0.2
+
+# AWS S3
+boto3>=1.34.0
+
+# Resume parsing (PDF + optional DOCX)
+pypdf>=4.0.0
+
+# Config
+python-dotenv>=1.0.0
